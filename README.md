@@ -46,5 +46,5 @@ To execute the project just execute the following commands:
 pip3 install -r requirements.txt
 
 # Run code
-python3 -B speedtest.py
+python3 -B SpeedTest.py
 ```
